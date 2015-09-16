@@ -1,0 +1,33 @@
+li {
+  list-style: none;
+  border-bottom: 1px solid black;
+  margin: 0px;
+  padding: 0;
+  background-color: #e5e5e5;
+  color: #797979; }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+.outer_container {
+  width: 256px;
+  margin: 0 auto;
+  background-color: #464344; }
+
+.my_files_list,
+.mail_list,
+.cloud_list,
+.signout {
+  background-color: #64666b;
+  color: white; }
+  .my_files_list:hover,
+  .mail_list:hover,
+  .cloud_list:hover,
+  .signout:hover {
+    background-color: #8ba136;
+    color: #45530a; }
+
+.list_ul {
+  display: none; }
